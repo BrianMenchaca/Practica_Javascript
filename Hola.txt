@@ -1,2 +1,1 @@
-Hola mundo
-Que tal?
+Esta carpeta sera una practica mia de GIT, GITHUB y Javascript.
